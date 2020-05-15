@@ -1,2 +1,2 @@
 # toad-todo
-A Listo fo Thinggs to Do as Toad and Frog Together Shorts Tales
+A Listo fo Things to Do as Toad and Frog Together Shorts Tales
